@@ -22,7 +22,7 @@ const browserConfig = defineConfig({
   test: {
     name: "browser",
     environment: "jsdom",
-    include: ["src/**/*.browser.test.{ts,tsx}"],
+    exclude: ["src/**/*.node.test.{ts,tsx}", "node_modules"],
   },
 });
 
