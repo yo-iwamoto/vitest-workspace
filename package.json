@@ -1,5 +1,5 @@
 {
-  "name": "my-next-template",
+  "name": "vitest-workspace",
   "license": "MIT",
   "scripts": {
     "preinstall": "npx only-allow pnpm",
