@@ -28,7 +28,7 @@
     "src",
     "next-env.d.ts",
     ".next/types/**/*.ts",
-    "vitest.config.ts",
+    "vitest.workspace.ts",
     "tailwind.config.js",
     "postcss.config.js",
     "next.config.js"
